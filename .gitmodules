@@ -16,3 +16,9 @@
 [submodule "modules/prompt/functions/pure"]
 	path = modules/prompt/external/pure
 	url = https://github.com/sindresorhus/pure.git
+[submodule "runcoms/vim/Vundle.vim"]
+	path = runcoms/vim/Vundle.vim
+	url = https://github.com/gmarik/Vundle.vim.git
+[submodule "runcoms/vim/bundle/Vundle.vim"]
+	path = runcoms/vim/bundle/Vundle.vim
+	url = https://github.com/gmarik/Vundle.vim.git
