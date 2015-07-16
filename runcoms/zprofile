@@ -48,6 +48,7 @@ path=(
   $HOME/Dropbox/Mills/scripts/marcscripts
   $HOME/Dropbox/Mills/scripts/oclc
   $HOME/Dropbox/Mills/scripts/marcupdates
+  $HOME/yaz/bin
   $path
 )
 
