@@ -33,6 +33,9 @@ fi
 # Paths
 #
 
+#Go
+export GOPATH=$HOME/go
+
 # Ensure path arrays do not contain duplicates.
 typeset -gU cdpath fpath mailpath path
 
@@ -51,6 +54,7 @@ path=(
   $HOME/Dropbox/Mills/scripts/statistics
   $HOME/yaz/bin
   $HOME/bin
+  $GOPATH/bin
   $path
 )
 
