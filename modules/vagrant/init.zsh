@@ -4,8 +4,10 @@
 
 #
 
-alias vagi='vagrant init'
-alias vagu='vagrant up'
-alias vagh='vagrant halt'
-alias vagd='vagrant destroy'
-alias vags='vagrant ssh'
+alias vinit='vagrant init'
+alias vup='vagrant up'
+alias vh='vagrant halt'
+alias vd='vagrant destroy'
+alias vssh='vagrant ssh'
+alias vst='vagrant status'
+alias vgst='vagrant global-status'
